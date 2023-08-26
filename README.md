@@ -18,3 +18,5 @@ https://www.youtube.com/channel/UCy9PQQh1C48BujwnYteA-Vg
 <a href="https://instagram.com/mahmoud_.azab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud_.azab" height="30" width="40" /></a>
 <a href="https://dribbble.com/mazap64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mazap64" height="30" width="40" /></a>
 </p>
+
+[untitled.webm](https://github.com/mazab99/animated_search/assets/108914401/5280e755-20c8-4eb6-997d-dc62a1f5465c)
